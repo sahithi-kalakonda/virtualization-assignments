@@ -32,7 +32,7 @@ We distributed the assignment uniformly ensuring that each person contributed by
 7. After building the file, checked whether `cmpe283-1.ko` (Kernel Object) file is created.
 ![kernelobject](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/9e267116e8a8e013193fbc31b518d111e703092a/screenshots/Listing_files.jpeg)
 8. Viewed Kernel-related messages using:
-
+![dmesg](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/8779b2d19ef68bd3bfa70124169dc74c3e54679c/screenshots/dmesg_command.jpeg)
 9. Inserted the above-built Kernel module `cmpe283-1.ko` into the running kernel using:
 
 10. Executed the below command to remove the `cmpe283-1` module:
