@@ -21,7 +21,7 @@ We distributed the assignment uniformly ensuring that each person contributed by
 1. Downloaded `CMPE283-1.c` and `Makefile` from the Canvas platform.
 
 2. Created a new directory named `linux`, which contains the cloned repository.
-
+   ![git clone](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/dac44512a5795bdedcaa4324ad41183d785557de/screenshots/Installing_git_status.jpeg)
 3. Checked whether the `Makefile` is uploaded using the command:
 
 4. Installed all the required libraries. Ensure you have the necessary dependencies installed.
