@@ -13,7 +13,7 @@ We distributed the assignment uniformly ensuring that each person contributed by
 
 1. Created a VM instance on Google Cloud Platform using the following command:
 
-![VM Instance](https://github.com/sahithi-kalakonda/virtualization-assignments/assets/83745501/ec54a517-1ec3-4161-ae1f-3c7ae57c41cb)
+![VM Instance]()
 
 
 ## Build and Development
