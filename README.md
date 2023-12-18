@@ -35,7 +35,7 @@ We distributed the assignment uniformly ensuring that each person contributed by
 ![dmesg](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/8779b2d19ef68bd3bfa70124169dc74c3e54679c/screenshots/dmesg_command.jpeg)
 9. Inserted the above-built Kernel module `cmpe283-1.ko` into the running kernel using:
 ![insert1](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/e4fcb201fe636ad96c3d5d78478bb647d9d07600/screenshots/ins1.png)
-![insert2]()
+![insert2](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/a76ee9696e5778661bd65d1dfe9edd6beb2b20d7/screenshots/ins2.png)
 ![insert3]()
 11. Executed the below command to remove the `cmpe283-1` module:
 
