@@ -22,8 +22,8 @@ We distributed the assignment uniformly ensuring that each person contributed by
 
 2. Created a new directory named `linux`, which contains the cloned repository.
    ![git clone](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/dac44512a5795bdedcaa4324ad41183d785557de/screenshots/Installing_git_status.jpeg)
-3. Checked whether the `Makefile` is uploaded using the command:
-
+3. Checked whether the `Makefile` is uploaded using the command
+   ![makefile](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/9d2de2803a0722d441a71e76bb182be77b76ff78/screenshots/make_file.jpeg)
 4. Installed all the required libraries. Ensure you have the necessary dependencies installed.
 
 5. Built the file using the Make command:
