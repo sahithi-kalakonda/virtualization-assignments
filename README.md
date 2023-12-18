@@ -5,6 +5,23 @@
 **Team Members:** Sahithi Kalakonda (017478786), Lekhana Gadde (017461236)
 
 ### Contribution of Team Members
+Lekhana Gadde : 
+- Implemented the creation of a virtual machine on Google Cloud Compute Engine using Cloud Shell.
+- Installed necessary dependencies (gcc, make, linux-headers) on the launched VM.
+- Conducted research on VMX capabilities for VMEXIT and Tertiary Procbased controls.
+- Developed code to read MSR to determine capabilities for Secondary and Tertiary Procbased controls.
+- Compiled a new module using make, loaded the module into the kernel, and inserted it into the kernel.
+- Updated the README file with instructions for launching a VM instance.
+- Committed the dmesg output to Git as evidence of completion.
+- 
+Sahithi Kalakonda :
+- Enabled SSH authentication on the VM launched on Google Cloud.
+- Upgraded the Ubuntu OS to the latest version using apt-get update and apt-get upgrade.
+- Conducted research on VMX capabilities for VMENTRY, Primary, and Secondary Procbased controls.
+- Defined code to read MSR to understand capabilities for VMENTRY, VMEXIT, and Primary Procbased controls.
+- Updated the README file with instructions for SSHing into the VM instance.
+- Inserted and removed the new module in the kernel.
+- Committed the compiled modules to Git to provide evidence of completing the required module.
 
 We distributed the assignment uniformly ensuring that each person contributed by writing two MSR's Linux kernel code. To maintain consistency, we followed a standardized process for setting up, building, and configuring the environment. Throughout the assignment, we collaborated closely to document the procedures we followed.
 
