@@ -30,7 +30,7 @@ We distributed the assignment uniformly ensuring that each person contributed by
 ![make1](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/e3fbddbf8a151056aa44cb8d1b15bb94856cf734/screenshots/running_make_command.jpeg)
 ![make2]()
 7. After building the file, checked whether `cmpe283-1.ko` (Kernel Object) file is created.
-
+![kernelobject](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/9e267116e8a8e013193fbc31b518d111e703092a/screenshots/Listing_files.jpeg)
 8. Viewed Kernel-related messages using:
 
 9. Inserted the above-built Kernel module `cmpe283-1.ko` into the running kernel using:
