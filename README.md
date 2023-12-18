@@ -5,7 +5,7 @@
 **Team Members:** Sahithi Kalakonda (017478786), Lekhana Gadde (017461236)
 
 ### Contribution of Team Members
-Lekhana Gadde : 
+#### Lekhana Gadde : 
 - Implemented the creation of a virtual machine on Google Cloud Compute Engine using Cloud Shell.
 - Installed necessary dependencies (gcc, make, linux-headers) on the launched VM.
 - Conducted research on VMX capabilities for VMEXIT and Tertiary Procbased controls.
@@ -13,8 +13,8 @@ Lekhana Gadde :
 - Compiled a new module using make, loaded the module into the kernel, and inserted it into the kernel.
 - Updated the README file with instructions for launching a VM instance.
 - Committed the dmesg output to Git as evidence of completion.
-- 
-Sahithi Kalakonda :
+  
+#### Sahithi Kalakonda :
 - Enabled SSH authentication on the VM launched on Google Cloud.
 - Upgraded the Ubuntu OS to the latest version using apt-get update and apt-get upgrade.
 - Conducted research on VMX capabilities for VMENTRY, Primary, and Secondary Procbased controls.
