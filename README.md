@@ -27,16 +27,17 @@ We distributed the assignment uniformly ensuring that each person contributed by
 4. Installed all the required libraries. Ensure you have the necessary dependencies installed.
    ![libraries](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/37a3c4cc7cc444d9972969d90d52e6878406c439/screenshots/req_libraries.jpeg)
 5. Built the file using the Make command:
+![make1](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/e3fbddbf8a151056aa44cb8d1b15bb94856cf734/screenshots/running_make_command.jpeg)
+![make2]()
+7. After building the file, checked whether `cmpe283-1.ko` (Kernel Object) file is created.
 
-6. After building the file, checked whether `cmpe283-1.ko` (Kernel Object) file is created.
+8. Viewed Kernel-related messages using:
 
-7. Viewed Kernel-related messages using:
+9. Inserted the above-built Kernel module `cmpe283-1.ko` into the running kernel using:
 
-8. Inserted the above-built Kernel module `cmpe283-1.ko` into the running kernel using:
+10. Executed the below command to remove the `cmpe283-1` module:
 
-9. Executed the below command to remove the `cmpe283-1` module:
-
-10. Checked Kernel messages again using `dmesg` after removing the module `cmpe283-1`.
+11. Checked Kernel messages again using `dmesg` after removing the module `cmpe283-1`.
 
 ---
 
