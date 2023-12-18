@@ -8,8 +8,8 @@
 #### Lekhana Gadde : 
 - Implemented the creation of a virtual machine on Google Cloud Compute Engine using Cloud Shell.
 - Installed necessary dependencies (gcc, make, linux-headers) on the launched VM.
-- Conducted research on VMX capabilities for VMEXIT and Tertiary Procbased controls.
-- Developed code to read MSR to determine capabilities for Secondary and Tertiary Procbased controls.
+- Conducted research on VMX capabilities for VMEXIT control.
+- Developed code to read MSR to determine capabilities for Secondary Procbased control.
 - Compiled a new module using make, loaded the module into the kernel, and inserted it into the kernel.
 - Updated the README file with instructions for launching a VM instance.
 - Committed the dmesg output to Git as evidence of completion.
