@@ -55,7 +55,9 @@
 > $ lsmod | grep kvm
 ![lsmod](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/f58a7af35bc37bdb4b119148270fb9dcf7441965/screenshots/lsmod.png)
 > $ rmmod kvm_intel
+> 
 > $ rmmod kvm
+> 
 > $ modprobe kvm
 > $ lsmod | grep kvm
 ![kvm](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/106d96f2b2058e3b2cf44c5c2d3d098daa3daf9c/screenshots/modprobe_kvm.png)
