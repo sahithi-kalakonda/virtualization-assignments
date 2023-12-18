@@ -47,7 +47,9 @@
 2. Copy the configuration from the current kernel to the source code directory.
 3. Build the kernel using the following commands mentioned in the video
 > $ make -j 16 modules
+![make_modules](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/6a8f735ae2e136dce404c90b34961dfea37f78c3/screenshots/make_modules2.png)
 > $ sudo bash
+> 
 > $ make INSTALL_MOD_STRIP=1 modules install && make install
 > $ lsmod | grep kvm
 > $ rmmod kvm_intel
