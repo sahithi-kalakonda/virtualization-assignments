@@ -28,7 +28,7 @@ We distributed the assignment uniformly ensuring that each person contributed by
    ![libraries](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/37a3c4cc7cc444d9972969d90d52e6878406c439/screenshots/req_libraries.jpeg)
 5. Built the file using the Make command:
 ![make1](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/e3fbddbf8a151056aa44cb8d1b15bb94856cf734/screenshots/running_make_command.jpeg)
-![make2]()
+![make2](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/bc559ad3e79a1695e492b7377d870a851783cacf/screenshots/make.png)
 7. After building the file, checked whether `cmpe283-1.ko` (Kernel Object) file is created.
 ![kernelobject](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/9e267116e8a8e013193fbc31b518d111e703092a/screenshots/Listing_files.jpeg)
 8. Viewed Kernel-related messages using:
