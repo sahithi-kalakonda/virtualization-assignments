@@ -40,7 +40,6 @@ We distributed the assignment uniformly ensuring that each person contributed by
 11. Executed the below command to remove the `cmpe283-1` module
    sudo rmmod cmpe283-1
 12. Checked Kernel messages again using `dmesg` after removing the module `cmpe283-1`.
-
----
+   ![rmmod1](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/4986d0615910aff9e7d69a3287f5ee43557bb02e/screenshots/rmmod_command.jpeg)
 
 
