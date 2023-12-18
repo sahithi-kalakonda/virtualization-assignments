@@ -57,10 +57,11 @@
 > $ rmmod kvm_intel
 > $ rmmod kvm
 > $ modprobe kvm
-![kvm](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/106d96f2b2058e3b2cf44c5c2d3d098daa3daf9c/screenshots/modprobe_kvm.png)
 > $ lsmod | grep kvm
+![kvm](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/106d96f2b2058e3b2cf44c5c2d3d098daa3daf9c/screenshots/modprobe_kvm.png)
 > $ modprobe kvm_intel
 > $ lsmod | grep kvm
+![kvm_intel](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/f06751d6243d095da8505ec592b5e2f1b00f5fdc/screenshots/modprobe_kvn_intel.png)
 
 ## Step 4: Modify Code for CPUID Leaf Nodes 0x4FFFFFFC and 0x4FFFFFFD
 1. Locate and modify the relevant code in `vmx.c` and `cpuid.c` to implement the desired functionality for CPUID leaf nodes `0x4FFFFFFC` and `0x4FFFFFFD`.
