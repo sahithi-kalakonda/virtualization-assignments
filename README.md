@@ -25,7 +25,7 @@ We distributed the assignment uniformly ensuring that each person contributed by
 3. Checked whether the `Makefile` is uploaded using the command
    ![makefile](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/9d2de2803a0722d441a71e76bb182be77b76ff78/screenshots/make_file.jpeg)
 4. Installed all the required libraries. Ensure you have the necessary dependencies installed.
-
+   ![libraries](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/37a3c4cc7cc444d9972969d90d52e6878406c439/screenshots/req_libraries.jpeg)
 5. Built the file using the Make command:
 
 6. After building the file, checked whether `cmpe283-1.ko` (Kernel Object) file is created.
