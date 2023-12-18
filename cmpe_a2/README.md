@@ -53,6 +53,7 @@
 > $ make INSTALL_MOD_STRIP=1 modules install && make install
 ![make install](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/09e7ee42edb1395ac762f7eb7305e8e43771db03/screenshots/make_install2.png)
 > $ lsmod | grep kvm
+![lsmod](https://github.com/sahithi-kalakonda/virtualization-assignments/blob/f58a7af35bc37bdb4b119148270fb9dcf7441965/screenshots/lsmod.png)
 > $ rmmod kvm_intel
 > $ rmmod kvm
 > $ modprobe kvm
